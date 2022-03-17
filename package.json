@@ -1,5 +1,25 @@
 {
   "devDependencies": {
     "standard-version": "^9.3.2"
-  }
+  },
+  "name": "semver1",
+  "description": "test semver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShalomUserExperior/semver1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShalomUserExperior/semver1/issues"
+  },
+  "homepage": "https://github.com/ShalomUserExperior/semver1#readme"
 }
