@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/ShalomUserExperior/semver1/compare/v1.3.0...v1.3.1) (2022-03-17)
+
+
+### Bug Fixes
+
+* **style-2:** bugfix 2 in style ([17fa0e3](https://github.com/ShalomUserExperior/semver1/commit/17fa0e35a737448bd41bd43cca14aee3e5c556b1))
+
 ## [1.3.0](https://github.com/ShalomUserExperior/semver1/compare/v1.2.0...v1.3.0) (2022-03-17)
 
 
