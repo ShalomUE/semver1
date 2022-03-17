@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/ShalomUserExperior/semver1/compare/v1.1.2...v1.2.0) (2022-03-17)
+
+
+### Features
+
+* **style:** added css file ([426e9e4](https://github.com/ShalomUserExperior/semver1/commit/426e9e4919d2108be1ef41eb3380fd1c03552202))
+
 ### [1.1.2](https://github.com/ShalomUserExperior/semver1/compare/v1.1.1...v1.1.2) (2022-03-17)
 
 
