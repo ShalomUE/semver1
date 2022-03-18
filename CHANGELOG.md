@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/ShalomUserExperior/semver1/compare/v1.3.1...v1.4.0) (2022-03-18)
+
+
+### Features
+
+* test multi commit togther ([9beab01](https://github.com/ShalomUserExperior/semver1/commit/9beab0146bc5ed858f8f68aad2803b8af3736a0e))
+
 ### [1.3.1](https://github.com/ShalomUserExperior/semver1/compare/v1.3.0...v1.3.1) (2022-03-17)
 
 
