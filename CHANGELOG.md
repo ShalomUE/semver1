@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/ShalomUserExperior/semver1/compare/v1.4.0...v1.5.0) (2022-03-21)
+
+
+### Features
+
+* **console.log:** made a new console.log ([4716d85](https://github.com/ShalomUserExperior/semver1/commit/4716d85f4382ceadb8b9b265230d73abd1be841e))
+
+
+### Bug Fixes
+
+* bugix feature ([4c44f46](https://github.com/ShalomUserExperior/semver1/commit/4c44f4692417f037dcc496a66808d34586507b14))
+
 ## [1.4.0](https://github.com/ShalomUserExperior/semver1/compare/v1.3.1...v1.4.0) (2022-03-18)
 
 
